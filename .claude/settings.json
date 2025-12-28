@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow" : [
+      "Bash"
+    ],
+    "deny": [],
+    "ask": [],
+    "defaultMode": "plan",
+    "additionalDirectories": ["../remote_project/"]
+  },
+  "outputStyle": "Intermediate Developer"
+}
